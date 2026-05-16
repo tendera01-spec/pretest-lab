@@ -1,4 +1,4 @@
-![Pretest Lab. A pre-launch quality gate for design and communication assets. Limbic × System 1 × Creative Experts. From the Creative Intelligence System.](assets/linkedin-cover.png)
+![Pretest Lab. A pre-launch quality gate for design and communication assets. Limbic × System 1 × Creative Experts. From the Creative Intelligence System.](linkedin-cover.png)
 
 # Pretest Lab
 
