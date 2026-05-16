@@ -1,0 +1,32 @@
+{
+  "name": "pretest-lab",
+  "displayName": "Pretest Lab",
+  "version": "1.1.0",
+  "description": "A pre-launch quality gate for design and communication assets. Pretest pitch decks, landing pages, LinkedIn posts, ads, CVs and any visual asset before it ships. Built on three established frameworks, stacked in one pass: the Limbic Model (Häusel) for psychographic archetypes, Decoded neuromarketing (Barden, building on Kahneman) for System 1 cognition, and a Creative Expert Roundtable (Ogilvy, Scher, Spiekermann, Cialdini, Duarte, Krug, Heath, Wells Lawrence and others) for distilled human expertise.",
+  "author": {
+    "name": "Gregor Adam Myszor",
+    "url": "https://www.gregoradammyszor.com"
+  },
+  "homepage": "https://github.com/tendera01-spec/pretest-lab",
+  "repository": "https://github.com/tendera01-spec/pretest-lab",
+  "license": "MIT",
+  "keywords": [
+    "pretest",
+    "quality-gate",
+    "communication-design",
+    "pitch-deck",
+    "landing-page",
+    "linkedin-post",
+    "creative-testing",
+    "limbic-model",
+    "archetypes",
+    "neuromarketing",
+    "persuasion",
+    "presentation-review",
+    "marketing",
+    "design",
+    "brand",
+    "qualitative-research",
+    "ab-testing"
+  ]
+}

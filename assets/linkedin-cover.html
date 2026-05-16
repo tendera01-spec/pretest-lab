@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>LinkedIn Cover – Synthetic Research Lab</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #2a2a26; font-family: 'Inter', sans-serif; }
+  .frame {
+    width: 1200px;
+    height: 627px;
+    margin: 40px auto;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.4);
+    display: block;
+  }
+  .instructions {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 24px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #141413;
+    border-radius: 6px;
+  }
+  .instructions h2 { margin-top: 0; }
+  .instructions code { background: #f3f2ef; padding: 2px 6px; border-radius: 3px; font-family: 'Menlo', monospace; }
+</style>
+</head>
+<body>
+
+<img src="linkedin-cover.svg" class="frame" alt="Synthetic Research Lab Cover">
+
+<div class="instructions">
+  <h2>Export to PNG for LinkedIn</h2>
+  <p>The frame above is exactly 1200 x 627 (LinkedIn's recommended share image size).</p>
+  <p><strong>Three ways to convert:</strong></p>
+  <ol>
+    <li>Open this file in Chrome or Safari, right-click the image, "Save image as..." (saves SVG). Then use an online converter (cloudconvert.com, svgomg) to get PNG at 1200x627.</li>
+    <li>In macOS: open the SVG in Preview or Pixelmator, export as PNG at 1200x627.</li>
+    <li>Use bash: <code>rsvg-convert -w 1200 -h 627 linkedin-cover.svg -o linkedin-cover.png</code> (requires <code>brew install librsvg</code>).</li>
+  </ol>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1200 627" xmlns="http://www.w3.org/2000/svg" width="1200" height="627">
+  <!-- Background -->
+  <rect width="1200" height="627" fill="#141413"/>
+
+  <!-- Subtle grid lines -->
+  <g stroke="#C6A560" stroke-width="1" opacity="0.06">
+    <line x1="0" y1="156" x2="1200" y2="156"/>
+    <line x1="0" y1="313" x2="1200" y2="313"/>
+    <line x1="0" y1="470" x2="1200" y2="470"/>
+    <line x1="300" y1="0" x2="300" y2="627"/>
+    <line x1="600" y1="0" x2="600" y2="627"/>
+    <line x1="900" y1="0" x2="900" y2="627"/>
+  </g>
+
+  <!-- Brand mark -->
+  <text x="60" y="68" font-family="DejaVu Sans Mono, Menlo, Courier New, monospace" font-size="14" fill="#8A8884" letter-spacing="3" font-weight="500">PRETEST LAB</text>
+  <text x="60" y="92" font-family="DejaVu Sans Mono, Menlo, Courier New, monospace" font-size="11" fill="#8A8884" letter-spacing="2" opacity="0.7">v1.1.0 . OPEN SOURCE . MIT</text>
+  <line x1="60" y1="104" x2="160" y2="104" stroke="#C6A560" stroke-width="2"/>
+
+  <!-- Hero text block -->
+  <text x="60" y="220" font-family="DejaVu Serif, Georgia, serif" font-size="50" fill="#F3F2EF" font-style="italic">A quality gate for</text>
+
+  <text x="60" y="290" font-family="DejaVu Serif, Georgia, serif" font-size="50" fill="#F3F2EF" font-style="italic">design and communication.</text>
+
+  <text x="60" y="395" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="58" fill="#C6A560" font-weight="700" letter-spacing="-1.5">Before it ships.</text>
+
+  <!-- Methods row -->
+  <g>
+    <rect x="60" y="465" width="245" height="46" rx="3" fill="none" stroke="#3a3a36" stroke-width="1.5"/>
+    <text x="182.5" y="494" font-family="DejaVu Sans Mono, Menlo, monospace" font-size="13" fill="#F3F2EF" text-anchor="middle" letter-spacing="0.5">Limbic Archetypes</text>
+
+    <rect x="318" y="465" width="225" height="46" rx="3" fill="none" stroke="#3a3a36" stroke-width="1.5"/>
+    <text x="430.5" y="494" font-family="DejaVu Sans Mono, Menlo, monospace" font-size="13" fill="#F3F2EF" text-anchor="middle" letter-spacing="0.5">Neuromarketing</text>
+
+    <rect x="556" y="465" width="330" height="46" rx="3" fill="none" stroke="#3a3a36" stroke-width="1.5"/>
+    <text x="721" y="494" font-family="DejaVu Sans Mono, Menlo, monospace" font-size="13" fill="#F3F2EF" text-anchor="middle" letter-spacing="0.5">Creative Expert Roundtable</text>
+  </g>
+
+  <!-- Footer divider -->
+  <line x1="60" y1="555" x2="1140" y2="555" stroke="#3a3a36" stroke-width="1"/>
+
+  <!-- Footer text -->
+  <text x="60" y="590" font-family="DejaVu Sans Mono, Menlo, monospace" font-size="15" fill="#C6A560" letter-spacing="0.5">github.com/tendera01-spec/pretest-lab</text>
+  <text x="1140" y="590" font-family="DejaVu Sans Mono, Menlo, monospace" font-size="12" fill="#8A8884" text-anchor="end" letter-spacing="2">BUILT BY GREGOR ADAM MYSZOR</text>
+</svg>
