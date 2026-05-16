@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="linkedin-cover.png" alt="Pretest Lab cover" width="100%" />
-</p>
-
+![Pretest Lab. A pre-launch quality gate for design and communication assets. Limbic × System 1 × Creative Experts. From the Creative Intelligence System.](assets/linkedin-cover.png)
 
 # Pretest Lab
 
@@ -13,13 +10,13 @@ Communication only exists when it lands. This is the quality gate that tests whe
 
 **Built on three established frameworks, stacked in one pass:**
 
-- **Limbic®️ Model** (Hans-Georg Häusel) for psychographic archetypes
+- **Limbic Model** (Hans-Georg Häusel) for psychographic archetypes
 - **Decoded neuromarketing** (Phil Barden, building on Daniel Kahneman) for System 1 cognition
 - **Creative Expert Roundtable** (Ogilvy, Scher, Spiekermann, Cialdini, Duarte, Krug, Heath, Wells Lawrence and others) for distilled human expertise
 
 A Claude Code skill from the [Creative Intelligence System](https://www.gregoradammyszor.com), the operating model I use in real client work. Strategy, design and execution. In the same hands. AI as accelerator. Human as decision-maker.
 
-Built by [Gregor Adam Myszor](https://www.gregoradammyszor.com), Digital Design Director.
+Built by [Gregor Adam Myszor](https://www.gregoradammyszor.com), Strategic Design Director.
 
 ---
 
@@ -104,28 +101,33 @@ Each lens delivers two sentences: observation plus implication. No fabricated qu
 
 The skill is opinionated. It is a quality gate, not an oracle. Treat the output as a structured second opinion, not as truth.
 
-## Installation
+## Install
 
-### Option A: Install as Claude Code Plugin
+### In Claude Code (recommended)
+
+Add the repo as a plugin marketplace, then install:
+
+```
+/plugin marketplace add tendera01-spec/pretest-lab
+/plugin install pretest-lab
+```
+
+### In Cowork mode or Claude Desktop
+
+Download `pretest-lab.plugin` from the [latest release](https://github.com/tendera01-spec/pretest-lab/releases/latest) and drag it into Claude Desktop → Settings → Plugins.
+
+### Manually (any Claude client supporting skills)
 
 ```bash
 git clone https://github.com/tendera01-spec/pretest-lab.git
-
-# Install via Claude Code
-/plugin install ./pretest-lab
-```
-
-### Option B: Drop the skill into your project
-
-```bash
-mkdir -p .claude/skills
-cp -r pretest-lab/skills/pretest-lab .claude/skills/
+mkdir -p ~/.claude/skills
+cp -r pretest-lab/skills/pretest-lab ~/.claude/skills/
 
 # Optional: German version
-cp -r pretest-lab/skills/pretest-lab-de .claude/skills/
+cp -r pretest-lab/skills/pretest-lab-de ~/.claude/skills/
 ```
 
-Restart Claude Code. The skill triggers on image or PDF uploads with phrases like "pretest this", "does this work", "review this deck", "test this poster", "which variant lands better".
+Restart Claude. The skill triggers on image or PDF uploads with phrases like "pretest this", "does this work", "review this deck", "test this poster", "which variant lands better".
 
 ## Usage
 
