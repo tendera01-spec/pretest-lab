@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="linkedin-cover.png" alt="Pretest Lab cover" width="100%" />
+</p>
+
+
 # Pretest Lab
 
 ### A pre-launch quality gate for design and communication assets.
