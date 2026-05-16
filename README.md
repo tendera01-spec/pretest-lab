@@ -8,13 +8,13 @@ Communication only exists when it lands. This is the quality gate that tests whe
 
 **Built on three established frameworks, stacked in one pass:**
 
-- **Limbic Model** (Hans-Georg Häusel) for psychographic archetypes
+- **Limbic®️ Model** (Hans-Georg Häusel) for psychographic archetypes
 - **Decoded neuromarketing** (Phil Barden, building on Daniel Kahneman) for System 1 cognition
 - **Creative Expert Roundtable** (Ogilvy, Scher, Spiekermann, Cialdini, Duarte, Krug, Heath, Wells Lawrence and others) for distilled human expertise
 
 A Claude Code skill from the [Creative Intelligence System](https://www.gregoradammyszor.com), the operating model I use in real client work. Strategy, design and execution. In the same hands. AI as accelerator. Human as decision-maker.
 
-Built by [Gregor Adam Myszor](https://www.gregoradammyszor.com), Strategic Design Director.
+Built by [Gregor Adam Myszor](https://www.gregoradammyszor.com), Digital Design Director.
 
 ---
 
