@@ -16,7 +16,7 @@ Communication only exists when it lands. This is the quality gate that tests whe
 
 A Claude Code skill from the [Creative Intelligence System](https://www.gregoradammyszor.com), the operating model I use in real client work. Strategy, design and execution. In the same hands. AI as accelerator. Human as decision-maker.
 
-Built by [Gregor Adam Myszor](https://www.gregoradammyszor.com), Strategic Design Director.
+Built by [Gregor Adam Myszor](https://www.gregoradammyszor.com), Design Design Director.
 
 ---
 
